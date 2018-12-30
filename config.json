@@ -1,0 +1,27 @@
+{
+	"AccOptions:": "...",
+
+	"Phone_secret" : "/IZ+ZyufGYavxrF1w73gYFKgink=",
+	"Admin" : "76561198857466897",
+    	"username" : "azumiid",
+    	"password" : "Vodka12957",
+
+	"IdlerOptions:": "...",
+
+	"StartOnlineOROffline" : "1",
+	"WhenLogonStartIdlingAllGames" : "0",
+	"LogonIdlingNonSteam": "Sleeping ❤",
+	"AllFunctions" : "1",
+
+	"GameOptions" : "...",
+
+	"Games2Idle" : "730",
+  	"Example-MultipleGames" : "753,10,730,xx,xxx,xxx,xx",
+
+	"MessagesOptions:": "...",
+
+	"AutoAFKMsgActivate" : "1",
+	"AutoAFKMsg" : "SORRY , I Play On My SHIT PC",
+	"AutoFriendAcceptActivate" : "0",
+	"AutoMsgWhenFriendAccept" : "Hello im a automated bot called Alfredo, if you want to speak to SP0OK3R, try later.."
+}

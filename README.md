@@ -1,5 +1,10 @@
 # SPKSteamBot [Updating]
 
+Owner of the script: 
+- https://steamcommunity.com/id/sp0ok3rz/
+
+In this repository, i tried to change some code.
+
 In my version i'm using:
 
 - Steam User: https://github.com/DoctorMcKay/node-steam-user
@@ -47,7 +52,7 @@ After installed, you can start the bot with: node steambot.js
 
 ## Editing config files:
 #### Usage of 'config.js' :
-- Admin : "76561198041931474", SteamID64 of the account which will control the bot!
+- Admin : "76561198857466897", SteamID64 of the account which will control the bot!
 
 - StartOnlineOROffline : '1' you can start the bot in online (1) mode or offline (0), only the game2idle will work!,
 
@@ -59,7 +64,7 @@ After installed, you can start the bot with: node steambot.js
 
 #### Usage of 'savedbots.js' :
 
-- BOTS : "76561198041931474,76561198177157710", this will prevent bots spamming each other if you got multiple bots
+- BOTS : "76561199102246921,76561198217690027", this will prevent bots spamming each other if you got multiple bots
 
 
 ### Development

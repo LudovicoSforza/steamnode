@@ -1,7 +1,7 @@
 # SPKSteamBot [Updating]
 
 Owner of the script: 
-- https://steamcommunity.com/id/sp0ok3rz/
+- https://github.com/sp0ok3r
 
 In this repository, i tried to change some code.
 

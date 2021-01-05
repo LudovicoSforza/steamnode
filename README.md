@@ -66,7 +66,5 @@ After installed, you can start the bot with: node steambot.js
 
 Want to contribute? Great!
 
-External contact:
-- https://steamcommunity.com/profiles/76561198041931474
-- http://steamcommunity.com/profiles/76561197963405081/
-- http://steamcommunity.com/profiles/76561197964076782/
+Contact me at:
+- https://steamcommunity.com/id/Akutan/

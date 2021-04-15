@@ -1,4 +1,4 @@
-# SPKSteamBot [Updating]
+# SPKSteamBot [OUTDATED]
 
 Owner of the script: 
 - https://github.com/sp0ok3r
